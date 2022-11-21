@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello World" 
-echo "Running scirpt for " &1
+echo "Running scirpt for " $env
 
